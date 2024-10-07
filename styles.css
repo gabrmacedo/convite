@@ -1,0 +1,16 @@
+html{
+    background-color: #333;
+}
+
+body{
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    color: white;
+}
+.box{
+    padding: 30px;
+}
+
+label{
+    display: block;
+}
